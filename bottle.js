@@ -22,6 +22,9 @@ else{
     console.log(results);
 }
     }
-    function draw(){
+ function draw(){
     image(img, 0, 0, 640, 420);
+    }
+function back(){
+        window.location.href = "https://zahra1205.github.io/OBJECT_DETECTION/";
     }
